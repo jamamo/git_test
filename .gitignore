@@ -1,0 +1,10 @@
+# Ignore environment file containing secrets
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE/editor files
+*.swp
+.DS_Store
